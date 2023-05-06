@@ -1,0 +1,16 @@
+
+/* ----------- For screens btw 768px and 1199px(tablets) ----------- */
+@media (min-width: 768px) and (max-width:1199px) 
+{
+	body {
+    background: #150F10;
+  }
+}
+
+/* ----------- For screens 1200px wide and larger(desktops)----------- */
+@media (min-width: 1200px) 
+{
+	body {
+    background: #2FC614;
+  }
+}
